@@ -1,5 +1,6 @@
 # Directory Structure
 
+```
 PLFS-Sample-Data-Project/
 │
 ├── Code
@@ -12,5 +13,5 @@ PLFS-Sample-Data-Project/
 └── Documents
     ├── Graphs
     └── Stata Log Files
-
+```
 a
